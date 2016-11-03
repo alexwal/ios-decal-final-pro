@@ -13,8 +13,8 @@ Micro EMR is a simplified electronic medical records software. It allows health 
 ## Control Flow
 * The user is presented with a screen asking to either begin a new record or view patient records.
 * Patient records will have a searchable view of patient profiles.
-* When a patient profile is chosen, another view of all of a particular patient's records is displayed (sorted by timestamp).
-* From the list of all of a particular patient's records, the user can edit a specific record.
+* When a patient profile is chosen, another view of a particular patient's records is displayed (sorted by timestamp).
+* From the list of a particular patient's records, the user can edit a specific record.
 * If beginning a new record, a new view will ask to write the patient's name.
 * The patient will be checked against the database. 
 * If the patient is new, the user will need to:
