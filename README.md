@@ -25,19 +25,19 @@ Micro EMR is a simplified electronic medical records software. It allows health 
 ## Implementation
 
 ### Model
-* PatientProfile.Swift
-* PatientRecord.Swfit
-* PatientRecordDatabase.Swift
+* Patient.Swift
+* Record.Swfit
+* RecordDatabase.Swift
 * PatientDatabase.Swift
 
 ### View:
-* PatientProfileView.swift
-* PatientRecordView.Swfit
-* PatientRecordDatabaseView.Swift
+* PatientView.swift
+* RecordView.Swfit
+* RecordDatabaseView.Swift
 * PatientDatabaseView.Swift
 
 ### Controller:
-* PatientProfileViewController.swift
-* PatientRecordViewController.Swfit
-* PatientRecordDatabaseViewController.Swift
+* PatientViewController.swift
+* RecordViewController.Swfit
+* RecordDatabaseViewController.Swift
 * PatientDatabaseViewController.Swift
