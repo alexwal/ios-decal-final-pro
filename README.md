@@ -6,9 +6,9 @@ Activity is a simplified movement tracker. It takes advantage of the iPhone's ma
 
 ## Features
 * Live activity report card whenever you open the app.
-* Accelerometer data used to compute energy expenditure.
+* Accelerometer data from Core Motion used to compute energy expenditure.
 * Speed data from Core Location and MapKit.
-* Distance data from Core Locationa and MapKit.
+* Distance data from Core Location and MapKit.
 * View all of the above over different periods of time.
 
 ## Control Flow
