@@ -1,46 +1,39 @@
-# Micro EMR
+# Activity
 ## Alex Walczak
 
-## A simpler way to do EMR.
-Micro EMR is a simplified electronic medical records software. It allows health practitioners to easily maintain records of patient visits.
+## A neat activity level tracking app.
+Activity is a simplified movement tracker. It takes advantage of the iPhone's many sensors to tell you about your activity level.
 
 ## Features
-* View all patients and patient records.
-* Speech-to-text recording of patient info and condition.
-* Ability to correct dictation.
-* Functionality to capture a photo of patient and attach to that patient's profile.
+* Live activity report card whenever you open the app.
+* Accelerometer data used to compute energy expenditure.
+* Speed data from Core Location and MapKit.
+* Distance data from Core Locationa and MapKit.
+* View all of the above over different periods of time.
 
 ## Control Flow
-* The user is presented with a screen asking to either begin a new record or view patient records.
-* Patient records will have a searchable view of patient profiles.
-* When a patient profile is chosen, another view of a particular patient's records is displayed (sorted by timestamp).
-* From the list of a particular patient's records, the user can edit a specific record.
-* If beginning a new record, a new view will ask to write the patient's name.
-* The patient will be checked against the database. 
-* If the patient is new, the user will need to:
-  * take the patient's picture
-  * write patient's info
-  * dictate patient's condition/diagnosis/medication
-  * record timestamp
-* Otherwise, the picture and patient info are skipped and the new record is appended to that patient's list of records.
-* Finally, when finishing creating/editing a record, the user can save a current record or cancel.
+* The user first is presented with his/her live activity report card.
+* This shows a live chart of instantaneous energy expenditure.
+* Next, there is a way to navigate to distance, speed, and activity level for today.
+* Also, all of the above can be viewed for the current week, month, and year.
+* Additionally, averages are shown for each dataset.
+* The above are all visually presented with live line and bar charts.
 
 ## Implementation
 
 ### Model
-* Patient.Swift
-* Record.Swfit
-* RecordDatabase.Swift
-* PatientDatabase.Swift
+* AxisFormatter.Swift
+* DataGenerator.Swift
+* LocationDelegate.Swift
 
 ### View:
-* PatientView.swift
-* RecordView.Swfit
-* RecordDatabaseView.Swift
-* PatientDatabaseView.Swift
+* Charts 3rd party package for plotting
+* Main.Storyboard
 
 ### Controller:
-* PatientViewController.swift
-* RecordViewController.Swfit
-* RecordDatabaseViewController.Swift
-* PatientDatabaseViewController.Swift
+* MasterViewController.Swift
+* LiveViewController.Swfit
+* ActivityViewController.Swift
+* SpeedViewController.Swift
+* DistanceViewController.Swift
+* (one of the above controllers for each of day, week, month, year)
