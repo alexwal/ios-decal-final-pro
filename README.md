@@ -4,13 +4,13 @@
 ## A neat activity level tracking app.
 
 Activity is a simplified movement tracker. It takes advantage of the iPhone's many sensors to tell you about your activity level.
-![screen0][0] ![screen0][1]
-![screen0][2] ![screen0][3]
+![screen0][0] ![screen1][1]
+![screen2][2] ![screen3][3]
 
-[0]: http://github.com/alexwal/ios-decal-final-pro/edit/master/screen0.png "Home Screen"
-[1]: https://github.com/alexwal/ios-decal-final-pro/edit/master/screen1.png "Week's Distance Traveled"
-[2]: https://github.com/alexwal/ios-decal-final-pro/edit/master/screen2.png "Current Speed"
-[3]: https://github.com/alexwal/ios-decal-final-pro/edit/master/screen3.png "Year's Activity"
+[0]: http://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG "Home Screen"
+[1]: http://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen1.PNG "Week's Distance Traveled"
+[2]: http://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen2.PNG "Current Speed"
+[3]: http://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen3.PNG "Year's Activity"
 
 
 
