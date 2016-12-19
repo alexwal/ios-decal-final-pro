@@ -2,7 +2,17 @@
 ## Alex Walczak
 
 ## A neat activity level tracking app.
+
 Activity is a simplified movement tracker. It takes advantage of the iPhone's many sensors to tell you about your activity level.
+![screen0][0] ![screen0][1]
+![screen0][2] ![screen0][3]
+
+[0]: screen0.png "Home Screen"
+[1]: screen1.png "Week's Distance Traveled"
+[2]: screen2.png "Current Speed"
+[3]: screen3.png "Year's Activity"
+
+
 
 ## Features
 * Live activity report card whenever you open the app.
