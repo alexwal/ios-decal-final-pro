@@ -9,6 +9,10 @@ Activity is a simplified movement tracker. It takes advantage of the iPhone's ma
 <a>
 <img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG" align="left" height="534" width="300" >
 <img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen1.PNG" align="middle" height="534" width="300" ><br>
+</a>
+</p>
+<p>
+<a>
 <img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen2.PNG" align="left" height="534" width="300" >
 <img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen3.PNG" align="middle" height="534" width="300" ><br>
 </a>
