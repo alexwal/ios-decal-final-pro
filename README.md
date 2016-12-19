@@ -5,11 +5,10 @@
 
 Activity is a simplified movement tracker. It takes advantage of the iPhone's many sensors to tell you about your activity level.
 
-<a href="url"><img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG" align="left" height="48" width="48" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen1.PNG" align="left" height="48" width="48" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen2.PNG" align="left" height="48" width="48" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen3.PNG" align="left" height="48" width="48" ></a>
-
+<img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG" align="left" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen1.PNG" align="left" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen2.PNG" align="left" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen3.PNG" align="left" height="48" width="48" >
 ## Features
 * Live activity report card whenever you open the app.
 * Accelerometer data from Core Motion used to compute energy expenditure.
