@@ -4,9 +4,11 @@
 ## A neat activity level tracking app.
 
 Activity is a simplified movement tracker. It takes advantage of the iPhone's many sensors to tell you about your activity level.
-<img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG" alt="Drawing" style="max-width: 30%;"/> <img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen1.PNG" alt="Drawing" style="max-width: 30%;"/>
-<img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen2.PNG" alt="Drawing" style="max-width: 50%;"/>
-<img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen2.PNG" alt="Drawing" style="max-width: 50%;"/>
+
+<a href="url"><img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen1.PNG" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen2.PNG" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen3.PNG" align="left" height="48" width="48" ></a>
 
 ## Features
 * Live activity report card whenever you open the app.
