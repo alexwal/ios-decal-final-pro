@@ -7,7 +7,8 @@ Activity is a simplified movement tracker. It takes advantage of the iPhone's ma
 ![screen0][0] ![screen1][1]
 ![screen2][2] ![screen3][3]
 
-[0]: https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG "Home Screen"
+[0]: <img src="https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG" alt="Drawing" style="width: 200px;"/>
+https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen0.PNG "Home Screen"
 [1]: https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen1.PNG "Week's Distance Traveled"
 [2]: https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen2.PNG "Current Speed"
 [3]: https://raw.githubusercontent.com/alexwal/ios-decal-final-pro/master/screen3.PNG "Year's Activity"
